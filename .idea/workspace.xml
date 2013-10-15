@@ -4,8 +4,9 @@
     <list default="true" id="ec92e607-ab79-44fa-b513-9f2f94c10595" name="Default" comment="" />
     <ignored path="ExerciseFour.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Receipt.java" changelist="ec92e607-ab79-44fa-b513-9f2f94c10595" time="1381870417336" ignored="false" />
+    <file path="/Receipt.java" changelist="ec92e607-ab79-44fa-b513-9f2f94c10595" time="1381874013780" ignored="false" />
     <file path="/Main.java" changelist="ec92e607-ab79-44fa-b513-9f2f94c10595" time="1381870736648" ignored="false" />
+    <file path="/fragment.java" changelist="ec92e607-ab79-44fa-b513-9f2f94c10595" time="1381873925514" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <file leaf-file-name="Receipt.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jjensen/exercises/four/Receipt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="19" selection-start="533" selection-end="533" vertical-scroll-proportion="0.6318584">
+            <state line="30" column="43" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.5072464">
               <folding />
             </state>
           </provider>
@@ -100,7 +101,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
+    <option name="width" value="1263" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -236,7 +237,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1263" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -257,7 +258,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494432" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18651123" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -347,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jjensen/exercises/four/Receipt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="19" selection-start="533" selection-end="533" vertical-scroll-proportion="0.6318584">
+        <state line="30" column="43" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.5072464">
           <folding />
         </state>
       </provider>
